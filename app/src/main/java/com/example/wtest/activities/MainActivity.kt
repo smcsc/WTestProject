@@ -94,7 +94,7 @@ class MainActivity : AppCompatActivity() {
         registerReceiver(br, IntentFilter(DownloadManager.ACTION_DOWNLOAD_COMPLETE))
     }
 
-    // Neste método
+    // Neste método é feita a criação da base de dados através do ficheiro descarregado
     fun importToDB() {
 
         dbHelper = DBHelper(this)
