@@ -1,0 +1,6 @@
+<resources>
+	<string name="app_name">WTest - Códigos Postais</string>
+	<string name="key_download_file">A descarregar ficheiro…</string>
+	<string name="key_creating_db">A criar Base de Dados…</string>
+	<string name="key_search">Pesquisar Código Postal…</string>
+</resources>
